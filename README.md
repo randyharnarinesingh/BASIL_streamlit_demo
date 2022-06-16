@@ -6,6 +6,8 @@ Setup guide for Streamlit demo.
 
 You can install Streamlit on your local environment using:
 
+**pip install streamlit** 
+
 ## Running Streamlit
 
 You can run Streamlit on your local environment using:

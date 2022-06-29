@@ -1,5 +1,6 @@
 import streamlit as st
 
+# Example of caching result from a frequently called function to shorten load times
 @st.cache
 def my_func():
      pass
